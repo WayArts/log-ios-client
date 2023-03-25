@@ -1,41 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T13:18:26.412Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="A1DnS8YKUwGIWQbRjxRl" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-25T12:12:00.999Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="90VCZsKncE6W1Ub9Bky9" version="21.0.10" type="github">
   <diagram name="App components" id="lCMRPWak-l99gqr__HIk">
     <mxGraphModel dx="813" dy="2799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZEpah68i9C4C2sU9uKjD-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="-120" width="670" height="370" as="geometry" />
+        <mxCell id="uBTQGI4SKc7psDHaQZI_-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ZEpah68i9C4C2sU9uKjD-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="250" width="270" height="230" as="geometry" />
+        <mxCell id="ZEpah68i9C4C2sU9uKjD-15" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="-270" width="670" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEpah68i9C4C2sU9uKjD-8" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1110" y="180" width="270" height="230" as="geometry" />
         </mxCell>
         <mxCell id="4o0hdnLatyUBeNMG3Ewm-8" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-40" width="340" height="300" as="geometry" />
+          <mxGeometry y="-200" width="340" height="300" as="geometry" />
         </mxCell>
         <mxCell id="4o0hdnLatyUBeNMG3Ewm-1" value="Telegram chat history" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4o0hdnLatyUBeNMG3Ewm-2" value="Telegram chat UI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4o0hdnLatyUBeNMG3Ewm-3" value="Telegram API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4o0hdnLatyUBeNMG3Ewm-4" value="Welllog web server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="4o0hdnLatyUBeNMG3Ewm-4" value="Walllog web server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4o0hdnLatyUBeNMG3Ewm-5" value="Welllog web UI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="767" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="1167" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4o0hdnLatyUBeNMG3Ewm-9" value="Welllog data provider&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="4o0hdnLatyUBeNMG3Ewm-9" value="Log data provider" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="990" y="-170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4o0hdnLatyUBeNMG3Ewm-10" value="Welllog data analyzer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="4o0hdnLatyUBeNMG3Ewm-10" value="Log data analyzer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1155" y="-150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4o0hdnLatyUBeNMG3Ewm-11" value="Welllog telegram communicator" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4o0hdnLatyUBeNMG3Ewm-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4o0hdnLatyUBeNMG3Ewm-3" target="4o0hdnLatyUBeNMG3Ewm-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -43,65 +46,71 @@
             <mxPoint x="430" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZEpah68i9C4C2sU9uKjD-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4o0hdnLatyUBeNMG3Ewm-9">
+        <mxCell id="ZEpah68i9C4C2sU9uKjD-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="4o0hdnLatyUBeNMG3Ewm-9" edge="1" target="ZEpah68i9C4C2sU9uKjD-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="-20" as="sourcePoint" />
-            <mxPoint x="710" y="-30" as="targetPoint" />
+            <mxPoint x="1030" y="-170" as="sourcePoint" />
+            <mxPoint x="1080" y="-180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZEpah68i9C4C2sU9uKjD-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ZEpah68i9C4C2sU9uKjD-3" value="Log additional storage&lt;br&gt;(Maybe it will be)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="-250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEpah68i9C4C2sU9uKjD-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4o0hdnLatyUBeNMG3Ewm-11" target="uBTQGI4SKc7psDHaQZI_-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="-30" as="sourcePoint" />
-            <mxPoint x="710" y="-40" as="targetPoint" />
+            <mxPoint x="760" y="120" as="sourcePoint" />
+            <mxPoint x="930" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZEpah68i9C4C2sU9uKjD-3" value="Welllog additional storage&lt;br&gt;(Maybe it will be)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="-100" width="120" height="60" as="geometry" />
+        <mxCell id="ZEpah68i9C4C2sU9uKjD-9" value="Web browser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1197" y="360" width="73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZEpah68i9C4C2sU9uKjD-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4o0hdnLatyUBeNMG3Ewm-10" target="4o0hdnLatyUBeNMG3Ewm-9">
+        <mxCell id="ZEpah68i9C4C2sU9uKjD-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.444;exitY=0.217;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZEpah68i9C4C2sU9uKjD-8" target="4o0hdnLatyUBeNMG3Ewm-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="140" as="sourcePoint" />
-            <mxPoint x="740" y="90" as="targetPoint" />
+            <mxPoint x="1150" y="60" as="sourcePoint" />
+            <mxPoint x="1200" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZEpah68i9C4C2sU9uKjD-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4o0hdnLatyUBeNMG3Ewm-11" target="4o0hdnLatyUBeNMG3Ewm-10">
+        <mxCell id="ZEpah68i9C4C2sU9uKjD-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4o0hdnLatyUBeNMG3Ewm-9" target="uBTQGI4SKc7psDHaQZI_-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="160" as="sourcePoint" />
-            <mxPoint x="660" y="110" as="targetPoint" />
+            <mxPoint x="1140" y="20" as="sourcePoint" />
+            <mxPoint x="1230" y="-10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZEpah68i9C4C2sU9uKjD-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4o0hdnLatyUBeNMG3Ewm-9" target="4o0hdnLatyUBeNMG3Ewm-11">
+        <mxCell id="ZEpah68i9C4C2sU9uKjD-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="uBTQGI4SKc7psDHaQZI_-1" target="4o0hdnLatyUBeNMG3Ewm-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="270" as="sourcePoint" />
-            <mxPoint x="560" y="220" as="targetPoint" />
+            <mxPoint x="1230" y="-10" as="sourcePoint" />
+            <mxPoint x="1190" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZEpah68i9C4C2sU9uKjD-9" value="Web browser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="797" y="430" width="73" height="30" as="geometry" />
+        <mxCell id="ZEpah68i9C4C2sU9uKjD-16" value="Log server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="-190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZEpah68i9C4C2sU9uKjD-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.444;exitY=0.217;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZEpah68i9C4C2sU9uKjD-8" target="4o0hdnLatyUBeNMG3Ewm-4">
+        <mxCell id="ZEpah68i9C4C2sU9uKjD-17" value="Telegram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="-150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uBTQGI4SKc7psDHaQZI_-1" value="Log service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uBTQGI4SKc7psDHaQZI_-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uBTQGI4SKc7psDHaQZI_-1" target="4o0hdnLatyUBeNMG3Ewm-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="780" y="210" as="sourcePoint" />
-            <mxPoint x="830" y="160" as="targetPoint" />
+            <mxPoint x="1050" as="sourcePoint" />
+            <mxPoint x="1100" y="-50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZEpah68i9C4C2sU9uKjD-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4o0hdnLatyUBeNMG3Ewm-9" target="4o0hdnLatyUBeNMG3Ewm-4">
+        <mxCell id="uBTQGI4SKc7psDHaQZI_-3" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uBTQGI4SKc7psDHaQZI_-5" value="Telegram Addon" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="190" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uBTQGI4SKc7psDHaQZI_-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uBTQGI4SKc7psDHaQZI_-3" target="uBTQGI4SKc7psDHaQZI_-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="170" as="sourcePoint" />
-            <mxPoint x="860" y="140" as="targetPoint" />
+            <mxPoint x="1000" y="-40" as="sourcePoint" />
+            <mxPoint x="1050" y="-90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZEpah68i9C4C2sU9uKjD-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4o0hdnLatyUBeNMG3Ewm-4" target="4o0hdnLatyUBeNMG3Ewm-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="860" y="140" as="sourcePoint" />
-            <mxPoint x="820" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZEpah68i9C4C2sU9uKjD-16" value="Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="-40" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZEpah68i9C4C2sU9uKjD-17" value="Telegram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="10" width="60" height="30" as="geometry" />
+        <mxCell id="uBTQGI4SKc7psDHaQZI_-9" value="нужно добавить возможность внешнего источника данных" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-270" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
