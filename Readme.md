@@ -7,7 +7,7 @@ Welllog-telegram is one of the projects from the series WayArts.
 Functions based on collected data from the wellbeing diary:<br>
 - show descriptive statistics;
 - make reports for some period of time;
-- search for dependencies and correlation between data series;
+- search for dependencies and its type between data series;
 - find cause and effect relationships;
 - prediction of data series;
 
