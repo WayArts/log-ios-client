@@ -1,0 +1,24 @@
+{
+  "name": "welllog-telegram",
+  "version": "1.0.0",
+  "description": "Welllog-telegram is a project for keeping a wellbeing diary.<br> It is a telegram chatbot that helps to maintain and view wellbeing.<br> Welllog-telegram is one of the projects from the series WayArts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WayArts/welllog-telegram.git"
+  },
+  "author": "Sasha Human",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WayArts/welllog-telegram/issues"
+  },
+  "homepage": "https://github.com/WayArts/welllog-telegram#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "telegraf": "^4.12.2"
+  }
+}
