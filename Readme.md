@@ -1,6 +1,6 @@
 # Log-mvp
 Log-mvp is a project for keeping a wellbeing diary.<br>
-It is a app that helps to maintain and view wellbeing.<br>
+It is an app that helps to maintain and view wellbeing.<br>
 Log-mvp is one of the projects from the series WayArts.
 
 ### Functions
